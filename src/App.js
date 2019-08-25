@@ -13,7 +13,8 @@ function App() {
       <Expense></Expense>
       <Expense></Expense>
       <Expense></Expense>
-
+      <Expense></Expense>
+      <Expense></Expense>
     </div>
   );
 }

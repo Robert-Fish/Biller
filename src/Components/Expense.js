@@ -3,7 +3,7 @@ import React from 'react'
 export default function Expense() {
     return (
         <li className='expense'>
-            <p>Hello World</p>
-        </li>
+            <p> <i className="fab fa-amazon"></i>Amazon Prime</p>
+        </li >
     )
 }
